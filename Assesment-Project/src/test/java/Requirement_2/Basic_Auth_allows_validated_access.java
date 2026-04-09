@@ -8,7 +8,7 @@ import java.util.List;
 public class Basic_Auth_allows_validated_access {
 
 
-    static void main(String[] args) throws InterruptedException {
+   public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new ChromeDriver();
         driver.get("https://the-internet.herokuapp.com");
 

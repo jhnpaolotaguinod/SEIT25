@@ -9,7 +9,7 @@ import java.util.List;
 
 public class HomePage_Validation {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://the-internet.herokuapp.com");
