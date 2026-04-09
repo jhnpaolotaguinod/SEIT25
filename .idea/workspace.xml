@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c66a438e-0a7b-495c-b682-72f7b2cd971b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,13 +10,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assesment-Project/src/test/java/HomePage_Validation.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3C6hgWcx9iFb9nuvaBsFho28WP1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,8 +34,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Basic_Auth_allows_validated_access.executor": "Debug",
+    "Application.Data_Tables.executor": "Debug",
+    "Application.HomePage_Validation.executor": "Debug",
+    "JUnit.Feature in Assesment-Project.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -30,17 +48,81 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/johnpaolotaguinod/Documents/GitHub/SEIT25",
+    "last_opened_file_path": "/Users/johnpaolotaguinod/Documents/GitHub/SEIT25/Assesment-Project/src/test/java/Test Scenario # 1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assesment-Project/src/test/java/Test Scenario # 1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Data_Tables">
+    <configuration name="Basic_Auth_allows_validated_access" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Requirement_2.Basic_Auth_allows_validated_access" />
+      <module name="Assesment-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Data_Tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Requirement_3.Data_Tables" />
+      <module name="Assesment-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Requirement_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePage_Validation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Requirement_1.HomePage_Validation" />
+      <module name="Assesment-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature in Assesment-Project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assesment-Project" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/Assesment-Project/src/test/java/Feature" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Data_Tables" />
+        <item itemvalue="Application.Basic_Auth_allows_validated_access" />
+        <item itemvalue="Application.HomePage_Validation" />
+        <item itemvalue="JUnit.Feature in Assesment-Project" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66a438e-0a7b-495c-b682-72f7b2cd971b" name="Changes" comment="" />
+      <created>1775713108506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775713108506</updated>
+      <workItem from="1775713112749" duration="4869000" />
+      <workItem from="1775729814763" duration="12847000" />
+    </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
